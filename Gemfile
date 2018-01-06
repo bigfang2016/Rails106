@@ -33,6 +33,11 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'bootstrap-sass'
+gem 'simple_form'
+gem 'devise'
+gem 'will_paginate'
+
+gem 'rails-erd', require: false, group: :development
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
